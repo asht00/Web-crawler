@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "A web crawler project.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asht00/Web-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asht00/Web-crawler/issues"
+  },
+  "homepage": "https://github.com/asht00/Web-crawler#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
