@@ -19,5 +19,8 @@
   "homepage": "https://github.com/asht00/Web-crawler#readme",
   "devDependencies": {
     "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.3"
   }
 }
